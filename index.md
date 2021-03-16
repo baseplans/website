@@ -1,8 +1,8 @@
-## Concept > Design > Constructions
+## Concept > Design > Construction
 
 Highly experienced in delivering engineering solutions.
 
-### Professional Services
+## Professional Services
 
 Land Development | Subdivision | Water Supply | Sewerage | Stormwater | Site Development
 
@@ -16,15 +16,15 @@ Private Enterprise | Local Goverment
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-## ABOUT
+## About
 
 Highly effective in delivering cost effective designs and approvals for all projects.
 
-#CONTACT
+## Contact
 
 [admin@baseplans.com.au](mailto:admin@baseplans.com.au)
 
-#LINKS
+## Links
 
 [https://www.cairns.qld.gov.au/](https://www.cairns.qld.gov.au/)
 
